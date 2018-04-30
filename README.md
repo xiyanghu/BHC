@@ -7,7 +7,7 @@ This is a project of implementing Beyesian Hierarchical Clustering in Python.
 Heller, Katherine A., and Zoubin Ghahramani. "Bayesian hierarchical clustering." Proceedings of the 22nd international conference on Machine learning. ACM, 2005.
 
 ### ipython notebook files:
-`xxxxxx.ipynb`: xxxxx<br />
+`STA 663 FINAL.ipynb`: Your main python notebook file all defined function, mynode class are contained in it.<br />
 
 
 ### Code generated pictures:
@@ -26,7 +26,7 @@ iris: This is perhaps the best known database to be found in the pattern recogni
 
 
 ## Reproduce Code
-To replicate the algorithms, please clone this repository, go to Folder `xxxxx` and run `xxxx.ipynb` <br/> 
+To replicate the algorithms, please clone this repository, run `STA 663 FINAL.ipynb` and `Report.tex` <br/> 
 
 ## Package
-We wrap our defined functions in the package folder. <br/> 
+We have tried to wrap our defined functions in the each folder and genrate several .py files. <br/> 
