@@ -4,6 +4,8 @@
 
 This is a project of implementing Beyesian Hierarchical Clustering in Python. 
 
+It can be installed using the command `pip install BHClustering `
+
 Heller, Katherine A., and Zoubin Ghahramani. "Bayesian hierarchical clustering." Proceedings of the 22nd international conference on Machine learning. ACM, 2005.
 
 ### ipython notebook files:
