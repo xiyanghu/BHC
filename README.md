@@ -31,4 +31,4 @@ iris: This is perhaps the best known database to be found in the pattern recogni
 To replicate the algorithms, please clone this repository, run `STA 663 FINAL.ipynb` and `Report.tex` <br/> 
 
 ## Package
-We have tried to wrap our defined functions in the each folder and genrate several .py files. <br/> 
+We have tried to wrap our defined functions thorugh `pip install BHClustering` in a terminal.
